@@ -4,6 +4,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 import com.formation.service.Calculator;
+import com.formation.service.MessageBuilder;
 
 @SpringBootTest
 class ApplicationTests {
